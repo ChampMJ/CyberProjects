@@ -1,14 +1,11 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Miesha Washington
+<a href="https://linkedin.com/in/mieshawashington/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate of Per Scholas Cybersecurity Bootcamp, currently obtaining my BS in Cybersecurity and Information Assurance whilst helping nonprofits and small businesses become more cyber-aware and resilient as a freelance Information security specialist.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My enthusiasm for technology and complex problem-solving helped me to develop an engineer's mindset.  Discovering how hardware and software perform by researching, building, experimenting, and testing has led me to develop a passion for cybersecurity, and I am now eager to transition into this field as well as educate nontech audiences on the importance of being cyber resilient.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
